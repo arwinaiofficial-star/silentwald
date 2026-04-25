@@ -1,0 +1,17 @@
+[build]
+  base = "frontend/"
+  publish = "frontend/build"
+  command = "yarn install --frozen-lockfile && yarn build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  CI = "false"
+  REACT_APP_BACKEND_URL = "https://silentwald.com"
+
+# Single-page app routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Form submissions are auto-captured by Netlify (form-name="contact")
