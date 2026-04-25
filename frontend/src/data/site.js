@@ -2,8 +2,8 @@
 export const SITE = {
   brand: "Silent Wald",
   tagline: "A Forest Sanctuary",
-  phone: "+91 98765 43210", // Replace with real number
-  whatsapp: "919876543210",
+  phone: " +919912917007", // Replace with real number
+  whatsapp: " +919912917007",
   email: "stay@silentwald.com",
   address: "Silent Wald Resort, Shamirpet, Secunderabad, Telangana 500078, India",
   mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.823!2d78.6109622!3d17.534766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8329f8e4f1c3%3A0x379b59646bc4198d!2sSilent%20wald%20resort!5e0!3m2!1sen!2sin!4v1700000000000",
