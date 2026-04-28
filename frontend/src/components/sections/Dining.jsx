@@ -20,7 +20,7 @@ export default function Dining() {
           className="lg:col-span-6 aspect-[4/5] overflow-hidden"
         >
           <img
-            src="https://oorjitaprojects.com/wp-content/uploads/2024/11/13-2.jpg"
+            src="/images/silentwald/photo-03.jpeg"
             alt="Dining at Silent Wald"
             className="w-full h-full object-cover"
           />

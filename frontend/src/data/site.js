@@ -21,11 +21,11 @@ export const NAV_LINKS = [
   { label: "Contact", href: "#contact" },
 ];
 
-export const HERO_IMAGE = "https://images.pexels.com/photos/14150566/pexels-photo-14150566.jpeg?auto=compress&cs=tinysrgb&w=2400";
+export const HERO_IMAGE = "/images/silentwald/photo-11.jpeg";
 
 export const ABOUT_IMAGES = [
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/3-1-1024x749.jpg",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/1-1-897x1024.jpg",
+  "/images/silentwald/photo-02.jpeg",
+  "/images/silentwald/photo-03.jpeg",
 ];
 
 export const COTTAGES = [
@@ -33,19 +33,19 @@ export const COTTAGES = [
     name: "The Forest Suite",
     desc: "Air-conditioned premium cottage with kitchenette, perfect for couples and small families seeking quiet immersion.",
     feat: ["AC + Heater", "Private Veranda", "Kitchenette", "Premium Linen"],
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/10-2.jpg",
+    img: "/images/silentwald/photo-04.jpeg",
   },
   {
     name: "Lawn-View Cottage",
     desc: "Walk straight onto the lawn. Designed for guests of weddings & gatherings staying on-property.",
     feat: ["AC", "Twin / Queen", "Garden Access", "Refrigerator"],
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/9-2.jpg",
+    img: "/images/silentwald/photo-12.jpeg",
   },
   {
     name: "Family Farmhouse",
     desc: "Spacious shared farmhouse — multi-room, perfect for groups, retreats, and joint family stays.",
     feat: ["Multi-Bedroom", "Living Lounge", "Kitchen", "Power Backup"],
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/8-2.jpg",
+    img: "/images/silentwald/photo-06.jpeg",
   },
 ];
 
@@ -68,35 +68,35 @@ export const EXPERIENCES = [
   {
     title: "Forest Weddings",
     blurb: "Exchange vows under a canopy of ancient trees. Lawns for 700, halls for 500, and a backdrop nature itself designed.",
-    img: "https://images.pexels.com/photos/19164350/pexels-photo-19164350.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "/images/silentwald/photo-13.jpeg",
   },
   {
     title: "Corporate Retreats",
     blurb: "Strategy off-sites, team building, leadership offsites — all in 250 acres of distraction-free quiet.",
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/6-1.jpg",
+    img: "/images/silentwald/photo-08.jpeg",
   },
   {
     title: "Family Getaways",
     blurb: "Weekend escapes, birthdays, anniversaries, and reunions. Pool, bonfire, BBQ, and stories under stars.",
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/5-1.jpg",
+    img: "/images/silentwald/photo-09.jpeg",
   },
   {
     title: "Film & Photo Shoots",
     blurb: "A favourite location for production crews. Multiple landscapes, controlled access, and on-site logistics.",
-    img: "https://oorjitaprojects.com/wp-content/uploads/2024/11/4-1.jpg",
+    img: "/images/silentwald/photo-14.jpeg",
   },
 ];
 
 export const GALLERY = [
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/3-1-1024x749.jpg",
-  "https://images.pexels.com/photos/16298931/pexels-photo-16298931.jpeg?auto=compress&cs=tinysrgb&w=1200",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/10-2.jpg",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/2-1.jpg",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/13-2.jpg",
-  "https://images.unsplash.com/photo-1636484807510-bc2ffbaf3241?auto=format&fit=crop&w=1200",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/12.jpeg",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/11-2.jpg",
-  "https://oorjitaprojects.com/wp-content/uploads/2024/11/7-2.jpg",
+  "/images/silentwald/photo-11.jpeg",
+  "/images/silentwald/photo-12.jpeg",
+  "/images/silentwald/photo-13.jpeg",
+  "/images/silentwald/photo-14.jpeg",
+  "/images/silentwald/photo-15.jpeg",
+  "/images/silentwald/photo-16.jpeg",
+  "/images/silentwald/photo-17.jpeg",
+  "/images/silentwald/photo-02.jpeg",
+  "/images/silentwald/photo-06.jpeg",
 ];
 
 export const TESTIMONIALS = [
