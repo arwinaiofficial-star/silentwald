@@ -50,16 +50,6 @@ export const COTTAGES = [
 ];
 
 export const AMENITIES = [
-  { title: "Outdoor Pool", desc: "Crystal-blue, surrounded by canopy.", icon: "Waves" },
-  { title: "Party Lawns", desc: "Up to 700 floating guests.", icon: "Trees" },
-  { title: "BBQ Setup", desc: "Open-fire grills under the stars.", icon: "Flame" },
-  { title: "Sand Volleyball", desc: "Beach-style court inside the forest.", icon: "Volleyball" },
-  { title: "Basketball Court", desc: "Full outdoor court with floodlights.", icon: "Dribbble" },
-  { title: "Kids' Play Area", desc: "Safe, shaded, and fenced.", icon: "Smile" },
-  { title: "Bridal Rooms", desc: "Two spacious changing suites.", icon: "Heart" },
-  { title: "Valet Parking", desc: "50+ cars; valets on duty.", icon: "Car" },
-  { title: "Power Backup", desc: "100% generator coverage.", icon: "Zap" },
-  { title: "Shuttle Service", desc: "From the gate to your cottage.", icon: "Bus" },
   { title: "In-house Catering", desc: "Veg & non-veg, multi-cuisine.", icon: "UtensilsCrossed" },
   { title: "Caretaker On-Call", desc: "24×7 guest support.", icon: "BellRing" },
 ];
@@ -127,9 +117,9 @@ export const TESTIMONIALS = [
 ];
 
 export const FAQS = [
-  { q: "Where exactly is Silent Wald located?", a: "We are situated in Shamirpet/Keesara, on the outskirts of Secunderabad — about 45 minutes from Hyderabad airport and 30 minutes from Secunderabad station. Detailed directions are sent on enquiry." },
-  { q: "How many guests can the lawns host?", a: "Our main lawn comfortably hosts 700 floating guests; the indoor hall seats up to 300 and floats 500. Smaller poolside gatherings of 20–50 are also popular." },
-  { q: "What is the typical cost?", a: "Day rentals begin around ₹50,000 with catering plates from ₹500–₹1,000 depending on cuisine. Wedding & multi-day packages are custom-quoted — please send an enquiry." },
+  { q: "Where exactly is Silent Wald located?", a: "We are situated in Shamirpet/Keesara, on the outskirts of Secunderabad — about 45 minutes from Hyderabad airport and 30 minutes from Secunderabad city centre." },
+  { q: "How many guests can the lawns host?", a: "Our main lawn comfortably hosts 700 floating guests; the indoor hall seats up to 300 and floats 500. Smaller poolside gatherings of 20–50 are also common." },
+  { q: "What is the typical cost?", a: "Day rentals begin around ₹50,000 with catering plates from ₹500–₹1,000 depending on cuisine. Wedding & multi-day packages are custom-quoted — please reach out." },
   { q: "Can we bring our own caterer / DJ / decorator?", a: "Yes. Outside catering, decor, and DJs are permitted. We also have trusted in-house partners if you prefer a hands-off experience." },
   { q: "Is alcohol permitted?", a: "Yes, alcohol is permitted on-property. Smoking is allowed in designated outdoor zones." },
   { q: "What's the check-in / check-out time?", a: "Check-in from 12:00 PM, check-out by 11:00 AM. Late check-out subject to availability." },
