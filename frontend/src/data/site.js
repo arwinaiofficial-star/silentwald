@@ -6,7 +6,7 @@ export const SITE = {
   whatsapp: " +919912917007",
   email: "stay@silentwald.com",
   address: "Silent Wald Resort, Shamirpet, Secunderabad, Telangana 500078, India",
-  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.823!2d78.6109622!3d17.534766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8329f8e4f1c3%3A0x379b59646bc4198d!2sSilent%20wald%20resort!5e0!3m2!1sen!2sin!4v1700000000000",
+  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.823!2d78.6109622!3d17.534766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb8329f8e4f1c3%3A0x379b59646bc4198d!2sSile[...]",
   instagram: "https://www.instagram.com/silentwald_resorts/",
   established: 2000,
   acres: 250,
@@ -21,7 +21,7 @@ export const NAV_LINKS = [
   { label: "Contact", href: "#contact" },
 ];
 
-export const HERO_IMAGE = "/images/silentwald/photo-11.jpeg";
+export const HERO_IMAGE = "/images/silentwald/photo-02.jpeg";
 
 export const ABOUT_IMAGES = [
   "/images/silentwald/photo-02.jpeg",
@@ -125,9 +125,9 @@ export const TESTIMONIALS = [
 ];
 
 export const FAQS = [
-  { q: "Where exactly is Silent Wald located?", a: "We are situated in Shamirpet/Keesara, on the outskirts of Secunderabad — about 45 minutes from Hyderabad airport and 30 minutes from Secunderabad city centre." },
-  { q: "How many guests can the lawns host?", a: "Our main lawn comfortably hosts 700 floating guests; the indoor hall seats up to 300 and floats 500. Smaller poolside gatherings of 20–50 are also common." },
-  { q: "What is the typical cost?", a: "Day rentals begin around ₹50,000 with catering plates from ₹500–₹1,000 depending on cuisine. Wedding & multi-day packages are custom-quoted — please reach out." },
+  { q: "Where exactly is Silent Wald located?", a: "We are situated in Shamirpet/Keesara, on the outskirts of Secunderabad — about 45 minutes from Hyderabad airport and 30 minutes from Secunder[...]" },
+  { q: "How many guests can the lawns host?", a: "Our main lawn comfortably hosts 700 floating guests; the indoor hall seats up to 300 and floats 500. Smaller poolside gatherings of 20–50 are a[...]" },
+  { q: "What is the typical cost?", a: "Day rentals begin around ₹50,000 with catering plates from ₹500–₹1,000 depending on cuisine. Wedding & multi-day packages are custom-quoted — ple[...]" },
   { q: "Can we bring our own caterer / DJ / decorator?", a: "Yes. Outside catering, decor, and DJs are permitted. We also have trusted in-house partners if you prefer a hands-off experience." },
   { q: "Is alcohol permitted?", a: "Yes, alcohol is permitted on-property. Smoking is allowed in designated outdoor zones." },
   { q: "What's the check-in / check-out time?", a: "Check-in from 12:00 PM, check-out by 11:00 AM. Late check-out subject to availability." },
