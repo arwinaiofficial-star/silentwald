@@ -78,6 +78,16 @@ export const EXPERIENCES = [
 ];
 
 export const GALLERY = [
+  "/images/silentwald/photo-01.jpeg",
+  "/images/silentwald/photo-02.jpeg",
+  "/images/silentwald/photo-03.jpeg",
+  "/images/silentwald/photo-04.jpeg",
+  "/images/silentwald/photo-05.jpeg",
+  "/images/silentwald/photo-06.jpeg",
+  "/images/silentwald/photo-07.jpeg",
+  "/images/silentwald/photo-08.jpeg",
+  "/images/silentwald/photo-09.jpeg",
+  "/images/silentwald/photo-10.jpeg",
   "/images/silentwald/photo-11.jpeg",
   "/images/silentwald/photo-12.jpeg",
   "/images/silentwald/photo-13.jpeg",
@@ -85,8 +95,6 @@ export const GALLERY = [
   "/images/silentwald/photo-15.jpeg",
   "/images/silentwald/photo-16.jpeg",
   "/images/silentwald/photo-17.jpeg",
-  "/images/silentwald/photo-02.jpeg",
-  "/images/silentwald/photo-06.jpeg",
 ];
 
 export const TESTIMONIALS = [
