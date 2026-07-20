@@ -21,11 +21,11 @@ export const NAV_LINKS = [
   { label: "Contact", href: "#contact" },
 ];
 
-export const HERO_IMAGE = "/images/silentwald/photo-11.jpeg";
+export const HERO_IMAGE = "/images/silentwald/MAIN image for hompage hero image.jpeg";
 
 export const ABOUT_IMAGES = [
-  "/images/silentwald/photo-02.jpeg",
-  "/images/silentwald/photo-03.jpeg",
+  "/images/silentwald/exterior 1.jpeg",
+  "/images/silentwald/exterior 2.jpeg",
 ];
 
 export const COTTAGES = [
@@ -33,19 +33,19 @@ export const COTTAGES = [
     name: "The Forest Suite",
     desc: "Air-conditioned premium cottage with kitchenette, perfect for couples and small families seeking quiet immersion.",
     feat: ["AC + Heater", "Private Veranda", "Kitchenette", "Premium Linen"],
-    img: "/images/silentwald/photo-04.jpeg",
+    img: "/images/silentwald/interior 1.jpeg",
   },
   {
     name: "Lawn-View Cottage",
     desc: "Walk straight onto the lawn. Designed for guests of weddings & gatherings staying on-property.",
     feat: ["AC", "Twin / Queen", "Garden Access", "Refrigerator"],
-    img: "/images/silentwald/photo-12.jpeg",
+    img: "/images/silentwald/interior 2.jpeg",
   },
   {
     name: "Family Farmhouse",
     desc: "Spacious shared farmhouse — multi-room, perfect for groups, retreats, and joint family stays.",
     feat: ["Multi-Bedroom", "Living Lounge", "Kitchen", "Power Backup"],
-    img: "/images/silentwald/photo-06.jpeg",
+    img: "/images/silentwald/interior 3.jpeg",
   },
 ];
 
@@ -58,43 +58,36 @@ export const EXPERIENCES = [
   {
     title: "Forest Weddings",
     blurb: "Exchange vows under a canopy of ancient trees. Lawns for 700, halls for 500, and a backdrop nature itself designed.",
-    img: "/images/silentwald/photo-13.jpeg",
+    img: "/images/silentwald/exterior 3.jpeg",
   },
   {
     title: "Corporate Retreats",
     blurb: "Strategy off-sites, team building, leadership offsites — all in 250 acres of distraction-free quiet.",
-    img: "/images/silentwald/photo-08.jpeg",
+    img: "/images/silentwald/exterior 4.jpeg",
   },
   {
     title: "Family Getaways",
     blurb: "Weekend escapes, birthdays, anniversaries, and reunions. Pool, bonfire, BBQ, and stories under stars.",
-    img: "/images/silentwald/photo-09.jpeg",
+    img: "/images/silentwald/night 1.jpeg",
   },
   {
     title: "Film & Photo Shoots",
     blurb: "A favourite location for production crews. Multiple landscapes, controlled access, and on-site logistics.",
-    img: "/images/silentwald/photo-14.jpeg",
+    img: "/images/silentwald/night 2.jpeg",
   },
 ];
 
 export const GALLERY = [
-  "/images/silentwald/photo-01.jpeg",
-  "/images/silentwald/photo-02.jpeg",
-  "/images/silentwald/photo-03.jpeg",
-  "/images/silentwald/photo-04.jpeg",
-  "/images/silentwald/photo-05.jpeg",
-  "/images/silentwald/photo-06.jpeg",
-  "/images/silentwald/photo-07.jpeg",
-  "/images/silentwald/photo-08.jpeg",
-  "/images/silentwald/photo-09.jpeg",
-  "/images/silentwald/photo-10.jpeg",
-  "/images/silentwald/photo-11.jpeg",
-  "/images/silentwald/photo-12.jpeg",
-  "/images/silentwald/photo-13.jpeg",
-  "/images/silentwald/photo-14.jpeg",
-  "/images/silentwald/photo-15.jpeg",
-  "/images/silentwald/photo-16.jpeg",
-  "/images/silentwald/photo-17.jpeg",
+  "/images/silentwald/MAIN image for hompage hero image.jpeg",
+  "/images/silentwald/exterior 1.jpeg",
+  "/images/silentwald/exterior 2.jpeg",
+  "/images/silentwald/exterior 3.jpeg",
+  "/images/silentwald/exterior 4.jpeg",
+  "/images/silentwald/interior 1.jpeg",
+  "/images/silentwald/interior 2.jpeg",
+  "/images/silentwald/interior 3.jpeg",
+  "/images/silentwald/night 1.jpeg",
+  "/images/silentwald/night 2.jpeg",
 ];
 
 export const TESTIMONIALS = [
